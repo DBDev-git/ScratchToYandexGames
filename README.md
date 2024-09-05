@@ -41,7 +41,7 @@ https://yandex.ru/video/preview/4267098640334585065 (смотреть до 01:27
 
 
 ## ***Как сделать обновление:***
-1. Открыть PenguinMod ( в двойне улучшенный Скретч ): studio.penguinmod.com/editor.html
+1. Открыть PenguinMod ( в двойне улучшенный Скретч ): https://studio.penguinmod.com/editor.html
 
 2. Загрузить pmp или sb3
 
