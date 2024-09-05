@@ -39,6 +39,7 @@ https://yandex.ru/video/preview/4267098640334585065 (смотреть до 01:27
 10. **Подписаться на https://t.me/NewEngineSystemDevelopment и https://t.me/Scratchtu 
 ОБЯЗАТЕЛЬНЫЙ ПУНКТ**
 
+
 ***Как сделать обновление:***
 1. Открыть PenguinMod ( в двойне улучшенный Скретч ): studio.penguinmod.com/editor.html
 
