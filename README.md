@@ -1,6 +1,6 @@
 # ***Как выложить игру на Яндекс игры сделанную в Scratch?***
 
-##### ***Как опубликовать:***
+## ***Как опубликовать:***
 1. Открыть PenguinMod ( в двойне улучшенный Скретч ): https://studio.penguinmod.com/editor.html
 
 2. Открыть https://github.com/NewEngineSystem/Yandex-Games-SDK-Scratch
@@ -40,7 +40,7 @@ https://yandex.ru/video/preview/4267098640334585065 (смотреть до 01:27
 ОБЯЗАТЕЛЬНЫЙ ПУНКТ**
 
 
-##### ***Как сделать обновление:***
+## ***Как сделать обновление:***
 1. Открыть PenguinMod ( в двойне улучшенный Скретч ): studio.penguinmod.com/editor.html
 
 2. Загрузить pmp или sb3
