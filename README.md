@@ -11,7 +11,7 @@
 
       4.1 Сохранить файл как pmp или sb3
 
-5. Упаковать проект по ссылке: https://newenginesystem.github.io/ImportYandexSDK/
+5. Упаковать проект по ссылке: https://dbdev-git.github.io/ImportYandexSDK/
 
       5.1 В упаковщике открыть файл (pmp или sb3)
 
